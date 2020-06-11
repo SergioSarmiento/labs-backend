@@ -8,7 +8,7 @@ import java.util.List;
 
 
 /**
- * The persistent class for the role database table.
+ * Cambio para la rama feature/success
  */
 @Entity
 @Table( name = "role", schema = "public" )
