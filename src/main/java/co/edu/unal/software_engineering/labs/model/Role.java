@@ -16,8 +16,8 @@ public class Role implements Serializable{
 
     private static final long serialVersionUID = 1L;
 
-    public static final int ROLE_STUDENT = 1;
-    public static final int ROLE_TEACHER = 2;
+    public static final int ROLE_STUDENT = 2;
+    public static final int ROLE_TEACHER = 1;
 
     /**
      * Attributes
